@@ -1,0 +1,2 @@
+# 1.2mm Power Inlet
+This part replaces the standard 1.0mm power inlet from the official [Voron repo](https://github.com/VoronDesign/Voron-0/tree/Voron0.1/STLs). The only difference is this part adapts to 1.2mm AC inlets for a more snug fit.

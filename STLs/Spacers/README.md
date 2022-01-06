@@ -3,7 +3,7 @@ The strain relief spacers are designed to match the motor height of LDO specific
 - use Strain_Relief_Spacer_36STH17 if you have a LDO-36STH17 stepper
 - use Strain_Relief_Spacer_36STH20 if you have a LDO-36STH20 stepper
 
-#Strain Relief 36STHxx
+# Strain Relief 36STHxx
 This is an optional mod by camerony that provides a stronger strain relief with better support. 
 
   ![Installation](Images/Strain_Relief_CAD.png)

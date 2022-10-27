@@ -1,0 +1,2 @@
+# Detatchable Spool Holder
+This mod allows the long arm of the spool holder to be completely removed and installed in two orientations (extended or collapsed). The collapsed configuration allows easy storage and transportation.

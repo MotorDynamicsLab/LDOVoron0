@@ -1,5 +1,5 @@
 # Chain Anchor Skirt
-This part replaces one of the stock skirts. Instead of fastening the Z cable chain to the frame, fasten it to this skirt.
+This part is for those users that are transitioning from V0.1 to V0.2. The part replaces one of the stock V0.2 skirts and allows the Z cable chain to attach to this skirt instead of the frame. Use this part only if your cable chain is oriented outwards (V0.1 style)
 
 # Nameplate Middle Clip
 Replaces a normal panel middle clip with a clip that can hold the metal LDO kit number nameplate.

@@ -1,5 +1,5 @@
-# LDO Voron 0.1 Kit
-This repository contains supplementary information/configuration/3d models for the LDO Voron 0.1 Kit
+# LDO Voron 0.2 Kit
+This repository contains supplementary information/configuration/3d models for the LDO Voron 0.2 Kit
 
 This repo contains both original and derivative works from the Voron project, 
 which is licensed GPLv3. This repo therefore is also licensed under the terms 

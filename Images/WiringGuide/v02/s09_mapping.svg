@@ -1,10 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 27.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1"
-	 id="svg8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:cc="http://creativecommons.org/ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:export-xdpi="101.6" inkscape:export-ydpi="101.6" inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)" sodipodi:docname="s09_mapping.svg"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 566.9 566.9"
-	 style="enable-background:new 0 0 566.9 566.9;" xml:space="preserve">
-<style type="text/css">
+
+<svg
+   version="1.1"
+   id="svg8"
+   inkscape:export-xdpi="135.47"
+   inkscape:export-ydpi="135.47"
+   inkscape:version="1.2-beta (1b65182ce9, 2022-04-05)"
+   sodipodi:docname="s09_mapping.svg"
+   x="0px"
+   y="0px"
+   viewBox="0 0 566.9 566.9"
+   style="enable-background:new 0 0 566.9 566.9;"
+   xml:space="preserve"
+   inkscape:export-filename="s09_mapping.png"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs24" />
+<style
+   type="text/css"
+   id="style2">
 	.st0{fill:none;stroke:#FF00FF;stroke-width:5.6693;stroke-miterlimit:11.3386;}
 	.st1{opacity:0.65;fill:#FFFFFF;enable-background:new    ;}
 	.st2{fill:#00FF00;}
@@ -18,26 +36,115 @@
 	.st10{fill:none;stroke:#FF6600;stroke-width:5.6693;stroke-miterlimit:11.3386;}
 	.st11{fill:#FF6600;}
 </style>
-<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="layer1" inkscape:cx="433.35545" inkscape:cy="358.60416" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:showpageshadow="2" inkscape:window-height="1027" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="0.98994948" pagecolor="#ffffff" showgrid="false">
+<sodipodi:namedview
+   bordercolor="#666666"
+   borderopacity="1.0"
+   id="base"
+   inkscape:current-layer="layer1"
+   inkscape:cx="111.42857"
+   inkscape:cy="283.57143"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:document-units="mm"
+   inkscape:pagecheckerboard="0"
+   inkscape:pageopacity="0.0"
+   inkscape:pageshadow="2"
+   inkscape:showpageshadow="2"
+   inkscape:window-height="1027"
+   inkscape:window-maximized="1"
+   inkscape:window-width="1920"
+   inkscape:window-x="1912"
+   inkscape:window-y="-8"
+   inkscape:zoom="1.4"
+   pagecolor="#ffffff"
+   showgrid="false">
 	</sodipodi:namedview>
-<g id="layer1" inkscape:groupmode="layer" inkscape:label="Layer 1">
+<g
+   id="layer1"
+   inkscape:groupmode="layer"
+   inkscape:label="Layer 1">
 	
-		<image style="overflow:visible;enable-background:new    ;" width="3678" height="3678" id="image149" xlink:href="69C2A447.jpeg"  sodipodi:insensitive="true" transform="matrix(0.1541 0 0 0.1541 0 9.611875e-06)">
+		<image
+   style="overflow:visible;enable-background:new    ;"
+   width="3678"
+   height="3678"
+   id="image149"
+   xlink:href="69C2A447.jpeg"
+   sodipodi:insensitive="true"
+   transform="matrix(0.1541 0 0 0.1541 0 9.611875e-06)">
 	</image>
-	<path id="path843-8" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccc" class="st0" d="M314.7,477.5l0-16.2l-13,0.1
-		v-26.3l140.8,0.1l0.1-120.6l-9.8,0.2"/>
-	<rect id="rect831-9" x="219.3" y="333.1" class="st1" width="110.2" height="22.6"/>
-	<text transform="matrix(1 0 0 1 225.5303 350.2209)" class="st2 st3 st4">ENDSTOP Z</text>
-	<path id="path897" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" class="st5" d="M285.7,355.7l0,105.1h58"/>
-	<rect id="rect831-1" x="310.1" y="480.5" class="st6" width="107.4" height="25.8"/>
-	<text transform="matrix(1 0 0 1 320.0488 498.9602)" class="st7 st3 st4">Z STEPPER</text>
-	<path id="path897-2" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccc" class="st8" d="M178.4,181.1h130.8l0,29.6
-		h139.8l-0.1,81.3h-16.4"/>
-	<rect id="rect831-8" x="121.6" y="185.7" class="st1" width="103.6" height="24.9"/>
-	<text transform="matrix(1 0 0 1 126.5508 203.6243)" class="st9 st3 st4">A STEPPER</text>
-	<path id="path897-2-7" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" class="st10" d="M444.8,184.2h14.3l-0.1,87.1
-		h-24.4"/>
-	<rect id="rect831-8-4" x="353.2" y="151.1" class="st6" width="103.6" height="25.2"/>
-	<text transform="matrix(1 0 0 1 357.9443 169.4964)" class="st11 st3 st4">B STEPPER</text>
+	<path
+   id="path843-8"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="ccccccc"
+   class="st0"
+   d="M314.7,477.5l0-16.2l-13,0.1   v-26.3l140.8,0.1l0.1-120.6l-9.8,0.2" />
+	<rect
+   id="rect831-9"
+   x="160.4617"
+   y="364.49698"
+   class="st1"
+   width="110.2"
+   height="22.6"
+   style="opacity:0.8" />
+	<text
+   class="st2 st3 st4"
+   id="text8"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008000"
+   x="166.692"
+   y="381.61786">ENDSTOP Z</text>
+	<path
+   id="path897"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="cccc"
+   class="st5"
+   d="m 329.94952,315.1918 -44.55094,0.0348 v 133.27144 h 51.77511" />
+	<rect
+   id="rect831-1"
+   x="310.1"
+   y="480.5"
+   class="st6"
+   width="107.4"
+   height="25.8" />
+	<text
+   transform="matrix(1 0 0 1 320.0488 498.9602)"
+   class="st7 st3 st4"
+   id="text12"
+   style="-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:15.0000003px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Z STEPPER</text>
+	<path
+   id="path897-2"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="cccccc"
+   class="st8"
+   d="M178.4,181.1h130.8l0,29.6   h139.8l-0.1,81.3h-16.4" />
+	<rect
+   id="rect831-8"
+   x="121.6"
+   y="185.7"
+   class="st1"
+   width="103.6"
+   height="24.9" />
+	<text
+   transform="matrix(1 0 0 1 126.5508 203.6243)"
+   class="st9 st3 st4"
+   id="text16"
+   style="-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:15.0000003px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">A STEPPER</text>
+	<path
+   id="path897-2-7"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="cccc"
+   class="st10"
+   d="M444.8,184.2h14.3l-0.1,87.1   h-24.4" />
+	<rect
+   id="rect831-8-4"
+   x="353.2"
+   y="151.1"
+   class="st6"
+   width="103.6"
+   height="25.2" />
+	<text
+   transform="matrix(1 0 0 1 357.9443 169.4964)"
+   class="st11 st3 st4"
+   id="text20"
+   style="-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:15.0000003px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">B STEPPER</text>
 </g>
 </svg>

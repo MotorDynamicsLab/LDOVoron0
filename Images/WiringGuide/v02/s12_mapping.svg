@@ -1,10 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 27.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1"
-	 id="svg8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:cc="http://creativecommons.org/ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:export-xdpi="101.6" inkscape:export-ydpi="101.6" inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)" sodipodi:docname="s12_mapping.svg"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 566.9 566.9"
-	 style="enable-background:new 0 0 566.9 566.9;" xml:space="preserve">
-<style type="text/css">
+
+<svg
+   version="1.1"
+   id="svg8"
+   inkscape:export-xdpi="101.6"
+   inkscape:export-ydpi="101.6"
+   inkscape:version="1.2-beta (1b65182ce9, 2022-04-05)"
+   sodipodi:docname="s12_mapping.svg"
+   x="0px"
+   y="0px"
+   viewBox="0 0 566.9 566.9"
+   style="enable-background:new 0 0 566.9 566.9;"
+   xml:space="preserve"
+   inkscape:export-filename="s12_mapping.png"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs29" />
+<style
+   type="text/css"
+   id="style2">
 	.st0{opacity:0.65;fill:#FFFFFF;enable-background:new    ;}
 	.st1{fill:#0000FF;}
 	.st2{font-family:'Arial-BoldMT';}
@@ -21,30 +39,157 @@
 	.st13{font-family:'Impact';}
 	.st14{font-size:14px;}
 </style>
-<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="layer1" inkscape:cx="329.28572" inkscape:cy="422.14286" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:showpageshadow="2" inkscape:window-height="1027" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="1.4" pagecolor="#ffffff" showgrid="false">
+<sodipodi:namedview
+   bordercolor="#666666"
+   borderopacity="1.0"
+   id="base"
+   inkscape:current-layer="layer1"
+   inkscape:cx="168.69547"
+   inkscape:cy="219.2031"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:document-units="mm"
+   inkscape:pagecheckerboard="0"
+   inkscape:pageopacity="0.0"
+   inkscape:pageshadow="2"
+   inkscape:showpageshadow="2"
+   inkscape:window-height="1027"
+   inkscape:window-maximized="1"
+   inkscape:window-width="1920"
+   inkscape:window-x="1912"
+   inkscape:window-y="-8"
+   inkscape:zoom="0.98994949"
+   pagecolor="#ffffff"
+   showgrid="false">
 	</sodipodi:namedview>
-<g id="layer1" inkscape:groupmode="layer" inkscape:label="Layer 1">
+<g
+   id="layer1"
+   inkscape:groupmode="layer"
+   inkscape:label="Layer 1">
 	
-		<image style="overflow:visible;enable-background:new    ;" width="3678" height="3678" id="image137" xlink:href="2992331F.jpeg"  sodipodi:insensitive="true" transform="matrix(0.1541 0 0 0.1541 0 9.611875e-06)">
+		<image
+   style="overflow:visible;enable-background:new    ;"
+   width="3678"
+   height="3678"
+   id="image137"
+   xlink:href="2992331F.jpeg"
+   sodipodi:insensitive="true"
+   transform="matrix(0.1541 0 0 0.1541 0 9.611875e-06)">
 	</image>
-	<polygon id="rect831-9" class="st0" points="98.4,419.9 229.5,420 229.5,442.6 98.4,442.5 	"/>
-	<text transform="matrix(1 0 0 1 100.187 436.4573)" class="st1 st2 st3">PCB 3006 fan 5v</text>
-	<path id="path897-2" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccc" class="st4" d="M252.9,140.4l0,61h30.4
-		l-0.1,161.7h-57.9l0.1-36.2"/>
-	<rect id="rect831-8" x="366.7" y="414.5" class="st0" width="83.9" height="24.9"/>
-	<text transform="matrix(1 0 0 1 371.6387 432.4241)" class="st5 st2 st3">SKR USB</text>
-	<path id="path897-2-7" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" class="st6" d="M229.5,431.5l64.5,0.4
-		l-0.3-235.6l66.3,0.7l0.3,27.2"/>
-	<rect id="rect831-8-4" x="159.4" y="143.1" class="st7" width="87.7" height="25.2"/>
-	<text transform="matrix(1 0 0 1 165.584 161.513)" class="st8 st2 st3">PBL USB</text>
-	<path id="path355" class="st6" d="M360.4,206.9h48.4v17.3"/>
-	<path id="path897-2-2" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" class="st9" d="M417.6,369.3v40l-217.1,0v-81.6
-		"/>
-</g>
-<path id="path897-2-7_00000075843438184957142790000012576834329376619967_" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" class="st10" d="
-	M231.9,471.8l72.7,0.5V215.6h46.5v9.1"/>
-<rect id="rect831-9_00000106131794085965780720000006976519737092430472_" x="99.5" y="461" class="st0" width="134.4" height="22.6"/>
-<text transform="matrix(1 0 0 1 99.4487 476.24)" class="st11 st2 st3">PCB 3010 fan 24v</text>
-<text transform="matrix(1 0 0 1 156.0315 457.3924)" class="st12 st13 st14">OR</text>
-<text transform="matrix(1 0 0 1 963.9941 357.7415)" class="st13 st14">Lorem ipsum</text>
+	<polygon
+   id="rect831-9"
+   class="st0"
+   points="229.5,420 229.5,442.6 98.4,442.5 98.4,419.9 "
+   transform="matrix(0.55477397,0,0,1,175.85313,20.608712)" />
+	<text
+   class="st1 st2 st3"
+   id="text7"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff"
+   x="233.86076"
+   y="457.06598"><tspan
+     sodipodi:role="line"
+     id="tspan510"
+     x="233.86076"
+     y="457.06598">3006 5V</tspan></text>
+	<path
+   id="path897-2"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="cccccc"
+   class="st4"
+   d="M252.9,140.4l0,61h30.4   l-0.1,161.7h-57.9l0.1-36.2" />
+	<rect
+   id="rect831-8"
+   x="366.7"
+   y="414.5"
+   class="st0"
+   width="83.9"
+   height="24.9" />
+	<text
+   transform="matrix(1 0 0 1 371.6387 432.4241)"
+   class="st5 st2 st3"
+   id="text11"
+   style="-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:15px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff6600">SKR USB</text>
+	<path
+   id="path897-2-7"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="ccccc"
+   class="st6"
+   d="M229.5,431.5l64.5,0.4   l-0.3-235.6l66.3,0.7l0.3,27.2" />
+	<rect
+   id="rect831-8-4"
+   x="257.88986"
+   y="142.08986"
+   class="st7"
+   width="163.46144"
+   height="25.200001"
+   style="stroke-width:1.36524" />
+	<text
+   class="st8 st2 st3"
+   id="text15"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000"
+   x="264.07388"
+   y="160.50285"><tspan
+     sodipodi:role="line"
+     id="tspan550"
+     x="264.07388"
+     y="160.50285">PICOBILICAL USB</tspan></text>
+	<path
+   id="path355"
+   class="st6"
+   d="M360.4,206.9h48.4v17.3" />
+	<path
+   id="path897-2-2"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="cccc"
+   class="st9"
+   d="M417.6,369.3v40l-217.1,0v-81.6   " />
+<polygon
+   id="rect831-9-0"
+   class="st0"
+   points="229.5,442.6 98.4,442.5 98.4,419.9 229.5,420 "
+   style="opacity:0.65;fill:#ffffff;enable-background:new"
+   transform="matrix(0.60864464,0,0,1,88.752247,-1.8937931)" /><text
+   class="st1 st2 st3"
+   id="text7-5"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333"
+   x="152.28831"
+   y="434.53992"><tspan
+     sodipodi:role="line"
+     id="tspan548"
+     x="152.28831"
+     y="434.53992">PCB FAN</tspan></text></g>
+<path
+   id="path897-2-7_00000075843438184957142790000012576834329376619967_"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="ccccc"
+   class="st10"
+   d="m 229.82515,437.33572 76.16381,0.5 0,-222.23572 h 49.15165 v 9.1"
+   style="stroke:#ff00ff" />
+<rect
+   id="rect831-9_00000106131794085965780720000006976519737092430472_"
+   x="229.63391"
+   y="463.64282"
+   class="st0"
+   width="76.53299"
+   height="21.135021"
+   style="stroke-width:0.729745" />
+<text
+   class="st11 st2 st3"
+   id="text22"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff00ff"
+   x="231.71561"
+   y="478.88281"><tspan
+     sodipodi:role="line"
+     id="tspan512"
+     x="231.71561"
+     y="478.88281">3010 24V</tspan></text>
+<text
+   class="st12 st13 st14"
+   id="text24"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
+   x="202.75763"
+   y="467.20889">OR</text>
+<text
+   transform="matrix(1 0 0 1 963.9941 357.7415)"
+   class="st13 st14"
+   id="text26">Lorem ipsum</text>
 </svg>

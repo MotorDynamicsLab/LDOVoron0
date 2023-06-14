@@ -1,5 +1,5 @@
-# LDO Voron 0.2 Kit
-This repository contains supplementary information and resources for the LDO Voron 0.2 Kit
+# LDO Voron 0.2R1 Kit
+This repository contains supplementary information and resources for the LDO Voron 0.2R1 Kit
 
 ## Index
 - **Firmware**, contains Klipper configuration files custom to the kit.
@@ -8,6 +8,7 @@ This repository contains supplementary information and resources for the LDO Vor
 
 ## Legacy Versions
 Users wishing to access older versions can check out the following branches:
+- [V02]( https://github.com/MotorDynamicsLab/LDOVoron0/tree/v02) Branch
 - [V01]( https://github.com/MotorDynamicsLab/LDOVoron0/tree/v01) Branch
 
 ## License

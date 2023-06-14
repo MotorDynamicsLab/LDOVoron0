@@ -6,6 +6,10 @@ This repository contains supplementary information and resources for the LDO Vor
 - **Images**, images from the kit, and wiring guide, etc.
 - **STLs**, printable parts and source files. 
 
+
+## Preset Plates
+We have gathered the most commonly parts from the Voron and LDO Repos. We saved them on as 250mm bed plates for your convenience. 
+
 ## Legacy Versions
 Users wishing to access older versions can check out the following branches:
 - [V02]( https://github.com/MotorDynamicsLab/LDOVoron0/tree/v02) Branch

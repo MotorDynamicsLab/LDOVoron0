@@ -6,9 +6,12 @@ This repository contains supplementary information and resources for the LDO Vor
 - **Images**, images from the kit, and wiring guide, etc.
 - **STLs**, printable parts and source files. 
 
+## For the V0.2R1
+- [V02R1]( https://github.com/MotorDynamicsLab/LDOVoron0/tree/v02r1 ) Branch
+
 ## Legacy Versions
 Users wishing to access older versions can check out the following branches:
-- [V01]( https://github.com/MotorDynamicsLab/LDOVoron0/tree/v01) Branch
+- [V01]( https://github.com/MotorDynamicsLab/LDOVoron0/tree/v01 ) Branch
 
 ## License
 This repo contains both original and derivative works from the Voron project, 

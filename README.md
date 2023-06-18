@@ -10,6 +10,9 @@ This repository contains supplementary information and resources for the LDO Vor
 ## Preset Plates
 We have gathered the most commonly parts from the Voron and LDO Repos. We saved them on as 250mm bed plates for your convenience. 
 
+Also 
+- [V02 to V02R1 Upgrade Plates]( https://github.com/MotorDynamicsLab/LDOVoron0/tree/v02r1/STLs/Preset_Print_PlatesR1/UpgradeToR1Plates)
+
 ## Legacy Versions
 Users wishing to access older versions can check out the following branches:
 - [V02]( https://github.com/MotorDynamicsLab/LDOVoron0/tree/v02) Branch
